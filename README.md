@@ -1,4 +1,4 @@
 # PersonalProject
 Personal Website.
 <br>
-Author - Pradip Poudel
+Author - Pradip Poudel (Engineer)
